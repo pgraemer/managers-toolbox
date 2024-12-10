@@ -54,3 +54,6 @@ A lightweight and flexible command-line JSON processor.
 
 ### [watch](https://linux.die.net/man/1/watch) :star:  
 Runs a command repeatedly and displays its output, great for monitoring changes in real time.
+
+### [feh](https://feh.finalrewind.org/) :star:  
+A lightweight image viewer for quickly previewing images from the terminal.
