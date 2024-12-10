@@ -10,5 +10,3 @@ an easy tool for Q&A, quizzes and polling during meetings. sli.do allows partici
 ### [mentimeter][mentimeter]
 mentimeter allows polls and quizzes and simple questions during your presentation. 
 
-[sli.do]: https://sli.do
-[mentimeter]: https://www.mentimeter.com/
