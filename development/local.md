@@ -8,3 +8,6 @@ A free wildcard DNS service that automatically resolves *.localtest.me domains t
 
 ### [LocalStack](https://github.com/localstack/localstack) :star2::star2:  
 A fully functional local cloud environment. It emulates AWS services for development and testing, enabling you to work offline without accessing real cloud infrastructure.
+
+### [mkcert](https://github.com/FiloSottile/mkcert) :star2::star2:
+A zero-config tool to create locally-trusted development certificates. Perfect for HTTPS testing in local environments. Automatically handles CA creation and browser trust store integration.
