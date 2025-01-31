@@ -23,3 +23,7 @@ A fast, lightweight secret scanner for git repositories and files. Scans for API
 ## [snyk](https://snyk.io/) :star2: 🖥️
 
 A developer security platform that finds and fixes vulnerabilities in dependencies, containers, and infrastructure as code. Integrates with CI/CD pipelines and provides automated security scanning.
+
+## [renovate](https://github.com/renovatebot/renovate) :star::star::star: 🖥️
+
+An automated dependency update tool that monitors and automatically creates pull requests for outdated dependencies. Supports multiple package managers and platforms, helps maintain security by keeping dependencies up to date with the latest security patches.
